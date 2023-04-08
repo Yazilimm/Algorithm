@@ -1,0 +1,13 @@
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\bin\Debug\netcoreapp3.1\algoritma6.exe
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\bin\Debug\netcoreapp3.1\algoritma6.deps.json
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\bin\Debug\netcoreapp3.1\algoritma6.runtimeconfig.json
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\bin\Debug\netcoreapp3.1\algoritma6.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\bin\Debug\netcoreapp3.1\algoritma6.dll
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\bin\Debug\netcoreapp3.1\algoritma6.pdb
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.AssemblyInfo.cs
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.dll
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.pdb
+C:\Users\enesk\Desktop\C#\algoritma6\algoritma6\obj\Debug\netcoreapp3.1\algoritma6.genruntimeconfig.cache

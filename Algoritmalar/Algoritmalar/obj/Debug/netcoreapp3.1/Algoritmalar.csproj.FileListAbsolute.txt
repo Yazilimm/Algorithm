@@ -1,0 +1,6 @@
+C:\Users\enesk\Desktop\C#\Algoritmalar\Algoritmalar\obj\Debug\netcoreapp3.1\Algoritmalar.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\C#\Algoritmalar\Algoritmalar\obj\Debug\netcoreapp3.1\Algoritmalar.Properties.Resources.resources
+C:\Users\enesk\Desktop\C#\Algoritmalar\Algoritmalar\obj\Debug\netcoreapp3.1\Algoritmalar.csproj.GenerateResource.cache
+C:\Users\enesk\Desktop\C#\Algoritmalar\Algoritmalar\obj\Debug\netcoreapp3.1\Algoritmalar.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\C#\Algoritmalar\Algoritmalar\obj\Debug\netcoreapp3.1\Algoritmalar.AssemblyInfo.cs
+C:\Users\enesk\Desktop\C#\Algoritmalar\Algoritmalar\obj\Debug\netcoreapp3.1\Algoritmalar.csproj.CoreCompileInputs.cache

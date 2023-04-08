@@ -1,0 +1,12 @@
+D:\enes\C#\algoritma15\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.exe
+D:\enes\C#\algoritma15\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.deps.json
+D:\enes\C#\algoritma15\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.json
+D:\enes\C#\algoritma15\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.dev.json
+D:\enes\C#\algoritma15\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.dll
+D:\enes\C#\algoritma15\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.pdb
+D:\enes\C#\algoritma15\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfoInputs.cache
+D:\enes\C#\algoritma15\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfo.cs
+D:\enes\C#\algoritma15\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.csproj.CoreCompileInputs.cache
+D:\enes\C#\algoritma15\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.dll
+D:\enes\C#\algoritma15\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.pdb
+D:\enes\C#\algoritma15\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.genruntimeconfig.cache

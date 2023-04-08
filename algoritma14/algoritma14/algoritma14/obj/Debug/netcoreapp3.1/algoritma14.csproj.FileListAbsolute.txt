@@ -1,0 +1,13 @@
+D:\enes\C#\algoritma14\algoritma14\algoritma14\bin\Debug\netcoreapp3.1\algoritma14.exe
+D:\enes\C#\algoritma14\algoritma14\algoritma14\bin\Debug\netcoreapp3.1\algoritma14.deps.json
+D:\enes\C#\algoritma14\algoritma14\algoritma14\bin\Debug\netcoreapp3.1\algoritma14.runtimeconfig.json
+D:\enes\C#\algoritma14\algoritma14\algoritma14\bin\Debug\netcoreapp3.1\algoritma14.runtimeconfig.dev.json
+D:\enes\C#\algoritma14\algoritma14\algoritma14\bin\Debug\netcoreapp3.1\algoritma14.dll
+D:\enes\C#\algoritma14\algoritma14\algoritma14\bin\Debug\netcoreapp3.1\algoritma14.pdb
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.csprojAssemblyReference.cache
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.AssemblyInfoInputs.cache
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.AssemblyInfo.cs
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.csproj.CoreCompileInputs.cache
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.dll
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.pdb
+D:\enes\C#\algoritma14\algoritma14\algoritma14\obj\Debug\netcoreapp3.1\algoritma14.genruntimeconfig.cache

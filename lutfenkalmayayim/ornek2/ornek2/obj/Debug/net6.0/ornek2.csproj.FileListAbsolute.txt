@@ -1,0 +1,15 @@
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\bin\Debug\net6.0\ornek2.exe
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\bin\Debug\net6.0\ornek2.deps.json
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\bin\Debug\net6.0\ornek2.runtimeconfig.json
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\bin\Debug\net6.0\ornek2.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\bin\Debug\net6.0\ref\ornek2.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\bin\Debug\net6.0\ornek2.pdb
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.csproj.AssemblyReference.cache
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.AssemblyInfoInputs.cache
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.AssemblyInfo.cs
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ref\ornek2.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.pdb
+C:\Users\enese\Desktop\lutfenkalmayayim\ornek2\ornek2\obj\Debug\net6.0\ornek2.genruntimeconfig.cache

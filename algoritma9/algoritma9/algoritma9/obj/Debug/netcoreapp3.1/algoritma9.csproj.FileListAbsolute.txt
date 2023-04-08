@@ -1,0 +1,13 @@
+D:\enes\C#\algoritma9\algoritma9\algoritma9\bin\Debug\netcoreapp3.1\algoritma9.exe
+D:\enes\C#\algoritma9\algoritma9\algoritma9\bin\Debug\netcoreapp3.1\algoritma9.deps.json
+D:\enes\C#\algoritma9\algoritma9\algoritma9\bin\Debug\netcoreapp3.1\algoritma9.runtimeconfig.json
+D:\enes\C#\algoritma9\algoritma9\algoritma9\bin\Debug\netcoreapp3.1\algoritma9.runtimeconfig.dev.json
+D:\enes\C#\algoritma9\algoritma9\algoritma9\bin\Debug\netcoreapp3.1\algoritma9.dll
+D:\enes\C#\algoritma9\algoritma9\algoritma9\bin\Debug\netcoreapp3.1\algoritma9.pdb
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.csprojAssemblyReference.cache
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.AssemblyInfoInputs.cache
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.AssemblyInfo.cs
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.csproj.CoreCompileInputs.cache
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.dll
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.pdb
+D:\enes\C#\algoritma9\algoritma9\algoritma9\obj\Debug\netcoreapp3.1\algoritma9.genruntimeconfig.cache

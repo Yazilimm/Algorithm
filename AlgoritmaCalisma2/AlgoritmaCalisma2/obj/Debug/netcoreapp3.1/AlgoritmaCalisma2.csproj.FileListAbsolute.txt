@@ -1,0 +1,13 @@
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\bin\Debug\netcoreapp3.1\AlgoritmaCalisma2.exe
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\bin\Debug\netcoreapp3.1\AlgoritmaCalisma2.deps.json
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\bin\Debug\netcoreapp3.1\AlgoritmaCalisma2.runtimeconfig.json
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\bin\Debug\netcoreapp3.1\AlgoritmaCalisma2.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\bin\Debug\netcoreapp3.1\AlgoritmaCalisma2.dll
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\bin\Debug\netcoreapp3.1\AlgoritmaCalisma2.pdb
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.AssemblyInfo.cs
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.dll
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.pdb
+C:\Users\enesk\Desktop\C#\AlgoritmaCalisma2\AlgoritmaCalisma2\obj\Debug\netcoreapp3.1\AlgoritmaCalisma2.genruntimeconfig.cache

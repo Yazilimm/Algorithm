@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7GcSGHTG1Big+FsFgGg6WVWE4XFYh+BMGZLmuKUs1CCC7IBMnMaJNpM3duTM5ybrVXxTjp5IOMWvQzDA2pQIQ==",
+  "success": true,
+  "projectFilePath": "D:\\enes\\ders\\c#\\diziler\\diziler\\diziler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enese\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\enese\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\enese\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\enese\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

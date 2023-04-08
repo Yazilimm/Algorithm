@@ -1,0 +1,13 @@
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\bin\Debug\netcoreapp3.1\DizilerCalisma.exe
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\bin\Debug\netcoreapp3.1\DizilerCalisma.deps.json
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\bin\Debug\netcoreapp3.1\DizilerCalisma.runtimeconfig.json
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\bin\Debug\netcoreapp3.1\DizilerCalisma.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\bin\Debug\netcoreapp3.1\DizilerCalisma.dll
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\bin\Debug\netcoreapp3.1\DizilerCalisma.pdb
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.AssemblyInfo.cs
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.dll
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.pdb
+C:\Users\enesk\Desktop\C#\Classes\DizilerCalisma\obj\Debug\netcoreapp3.1\DizilerCalisma.genruntimeconfig.cache

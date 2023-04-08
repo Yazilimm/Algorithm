@@ -1,0 +1,15 @@
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\bin\Debug\net6.0\Ornekler.exe
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\bin\Debug\net6.0\Ornekler.deps.json
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\bin\Debug\net6.0\Ornekler.runtimeconfig.json
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\bin\Debug\net6.0\Ornekler.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\bin\Debug\net6.0\ref\Ornekler.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\bin\Debug\net6.0\Ornekler.pdb
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.csproj.AssemblyReference.cache
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.AssemblyInfoInputs.cache
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.AssemblyInfo.cs
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\ref\Ornekler.dll
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.pdb
+C:\Users\enese\Desktop\lutfenkalmayayim\Ornekler\Ornekler\obj\Debug\net6.0\Ornekler.genruntimeconfig.cache

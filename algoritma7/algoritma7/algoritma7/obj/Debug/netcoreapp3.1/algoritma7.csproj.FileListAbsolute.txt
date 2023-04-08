@@ -1,0 +1,13 @@
+D:\enes\C#\algoritma7\algoritma7\algoritma7\bin\Debug\netcoreapp3.1\algoritma7.exe
+D:\enes\C#\algoritma7\algoritma7\algoritma7\bin\Debug\netcoreapp3.1\algoritma7.deps.json
+D:\enes\C#\algoritma7\algoritma7\algoritma7\bin\Debug\netcoreapp3.1\algoritma7.runtimeconfig.json
+D:\enes\C#\algoritma7\algoritma7\algoritma7\bin\Debug\netcoreapp3.1\algoritma7.runtimeconfig.dev.json
+D:\enes\C#\algoritma7\algoritma7\algoritma7\bin\Debug\netcoreapp3.1\algoritma7.dll
+D:\enes\C#\algoritma7\algoritma7\algoritma7\bin\Debug\netcoreapp3.1\algoritma7.pdb
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.csprojAssemblyReference.cache
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.AssemblyInfoInputs.cache
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.AssemblyInfo.cs
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.csproj.CoreCompileInputs.cache
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.dll
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.pdb
+D:\enes\C#\algoritma7\algoritma7\algoritma7\obj\Debug\netcoreapp3.1\algoritma7.genruntimeconfig.cache
